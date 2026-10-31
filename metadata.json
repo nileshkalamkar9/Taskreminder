@@ -1,0 +1,6 @@
+{
+  "name": "VocaDo",
+  "description": "Acoustic Command Workspace for high-velocity voice-first task management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
